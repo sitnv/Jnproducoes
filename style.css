@@ -59,6 +59,52 @@ text-align: right;
    
 }
 
+.conoscoz {
+   font-size: 0px;
+    
+}
+a{
+    color: aliceblue;
+}
+
+/*BOTOES DE BAIXO CONFG
+
+
+.conoscoz a{
+    text-decoration: none;
+    color: #593caa;
+    padding: 10px 25px;
+    font-size: 17px;
+    display: none;
+}
+
+.conoscoz :hover{
+    color: #ffc046;
+    border-top: solid 2px #ffc046;
+}
+
+#botoo{
+    background-color:#593caa;
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    font-size: 23px;
+    padding: 8px;
+    margin-right: 80px;
+    margin-left: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+#botoo:hover{
+    background-color: #ffc046;
+    border: none;
+    color: #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+BOTOES DE BAIXO, COMENTARIO DA PARTE DE CIMA*/
+
+
 #botao:hover{
     background-color: #ffc046;
     border: none;
@@ -218,3 +264,4 @@ padding-bottom: 2px;
     right: 5px;
     width: 70px;
 }
+

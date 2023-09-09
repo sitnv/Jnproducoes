@@ -1,10 +1,105 @@
 @media screen and (max-width:1294px)
 {
-
     .sumir{
-        display: none;
+  display:none;
+ 
     }
 #botao{
 display: inline-block;
  margin-top: 20px;
 }
+
+header{
+  margin-bottom: 100px;
+  margin-left: 180px ;
+}
+
+#zero{
+  display: none;
+}
+
+.img-chamada img{
+  margin-top: 20px;
+}
+
+.out{
+  margin: 30px;
+  font-size: 33px;
+}
+
+.card-princ .card{
+ 
+  margin: 40px;
+  margin-left:70px;
+
+}
+
+.card-princ .card h3{
+font-size: 13.5px;
+
+}
+
+.card-princ .card img{
+  margin-left: 62px;
+
+}
+
+#card4 h3{
+padding: 0px;
+}
+
+#card3 img{
+  margin-top: 26px;
+}
+
+.conoscoz{
+  margin-left: 150px;
+margin-top: 30px;
+
+}
+
+
+.conoscoz a{
+  text-decoration: none;
+  color: #593caa;
+  padding: 10px 25px;
+  font-size: 17px;
+
+}
+
+.conoscoz :hover{
+  color: #ffc046;
+  border-top: solid 2px #ffc046;
+}
+
+#botoo{
+  background-color:#593caa;
+  color: rgb(255, 255, 255);
+  border-radius: 6px;
+  font-size: 23px;
+  padding: 8px;
+  margin-right: 80px;
+  margin-left: 80px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+#botoo:hover{
+  background-color: #ffc046;
+  border: none;
+  color: #000000;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#whatspo img{
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  width: 50px;
+
+}
+
+
+}
+

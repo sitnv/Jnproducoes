@@ -1,0 +1,113 @@
+@media screen and (max-width:900px){
+
+
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+.conoscoz{
+    margin-left: 0px;
+      margin-top:4px;
+      
+
+      }
+      
+.conoscoz a{
+        text-decoration: none;
+        color: #593caa;
+        padding: 1px 9px;
+        font-size: 15px;
+      margin-left: 34px;
+      margin-bottom: -50px;
+    
+      }
+      
+      .conoscoz :hover{
+        color: #ffc046;
+        border-top: solid 2px #ffc046;
+      }
+      
+      #botoo{
+        background-color:#593caa;
+        color: rgb(255, 255, 255);
+        border-radius: 6px;
+        font-size: 16px;
+        width: 100px;
+        display: block;
+        margin-top: 20px;
+        margin-left: 130px;
+        margin-bottom: -30px;
+       
+      }
+      
+      #botoo:hover{
+        background-color: #ffc046;
+        border: none;
+        color: #000000;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      
+      
+
+#foot img{
+
+    padding: 0px;
+    margin: 0px;
+   width: 300px;
+
+}
+#foot h3{
+    font-size: 11px;
+}
+
+#whatspo img{
+width:0px;
+      
+ }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

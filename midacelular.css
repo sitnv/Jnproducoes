@@ -1,0 +1,68 @@
+@media screen and (max-width:600px) {
+
+#imgg{
+width: 300px;
+margin-left: -10px;    
+
+}    
+
+.fale-conosco{
+    display: none;
+}
+
+.header{
+    display: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header h1{
+    font-size: 15.5px;
+    margin-left: -22px;
+    margin-top: 30px;
+}
+
+.header h2{
+    font-size: 51px;
+    margin-left: -22px;
+    margin-bottom: 30px;
+}
+
+.header p{
+margin-left: -22px;
+
+}
+
+#zero{
+    display: block;
+    margin-left: -25px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+#img-celular{
+    width: 391px;
+}
+
+.out{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 150px;
+    font-size: 26px;
+}
+
+#card-pera{
+    margin-left: -40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+}

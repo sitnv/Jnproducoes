@@ -1,5 +1,10 @@
 @media screen and (max-width:600px) {
 
+#nav{
+position: absolute;  
+}
+
+
 #imgg{
 width: 300px;
 margin-left: -10px; 

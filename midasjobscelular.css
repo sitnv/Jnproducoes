@@ -1,0 +1,121 @@
+@media screen and (max-width:600px) {
+
+
+.conoscoz{
+  display: block;
+}
+
+    .topo{
+      position: absolute;  
+    }
+
+#img{
+margin-top: -65px;
+    width: 270px;
+    margin-left: 0px;
+}
+.fale-conosco {
+display: none;
+}
+
+.img-chamada img{
+  width: 330px;
+ 
+}
+ #img1{
+  margin-bottom: -80px;
+
+ }
+
+.header{
+  align-items: baseline;
+}
+
+#for{
+width: 390px;
+margin-left: -23px;
+margin-bottom: -200px;
+margin-top: -140px;
+}
+
+#if{
+  margin-left: 116.6px;
+  margin-top: -86px;
+  height:300px;
+  width: 175.7px;
+}
+
+.iphone-texto{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+
+}
+
+#pesado-marg p{
+text-align: center;
+font-size:15px;
+margin-left: 110px;
+
+}
+
+#foooter img{
+  width: 200px;
+
+}
+
+#foooter h3{
+  font-size: 11px;
+}
+
+
+
+
+
+.conoscoz{
+  margin-left: 20px;
+    margin-top: -40px;
+    margin-bottom: -30px;
+
+    }
+    
+.conoscoz a{
+      text-decoration: none;
+      color: #593caa;
+      font-size: 13px;
+    margin-left: 30px;
+    margin-bottom: -50px;
+  
+    }
+    
+    .conoscoz :hover{
+      color: #ffc046;
+      border-top: solid 2px #ffc046;
+    }
+    
+    #botoo{
+      background-color:#593caa;
+      color: rgb(255, 255, 255);
+      border-radius: 6px;
+      font-size: 16px;
+      margin-left: 40px;
+      margin-bottom: -30px;
+      padding: 6px;
+     
+    }
+    
+    #botoo:hover{
+      background-color: #ffc046;
+      border: none;
+      color: #000000;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+
+
+
+
+
+
+    
+}
